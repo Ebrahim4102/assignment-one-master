@@ -51,10 +51,9 @@
 .hero-image{
     position: relative;
     top: 10px;
-    left: 50%;
+    left: 44%;
     height: 240.28px;
     width: 240px;
-    
 }
 
 .hero-message{
@@ -131,7 +130,7 @@
     margin-top: 60px;
     width: 1250px;
     height: 336px;
-    background-color: pink;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
     border-radius: 25px;
     display: flex;
 }
@@ -188,7 +187,9 @@
     margin-top: 60px;
     width: 1250px;
     height: 336px;
-    background-color: pink;
+    
+
+background: linear-gradient(270.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
     border-radius: 25px;
     display: flex;
 }
